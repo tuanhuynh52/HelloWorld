@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
     private Button sendAgainButton;
     public static final String MESSAGE = "message";
-    public static final String TAG = "Menaka";
+    public static final String TAG = "Tuan";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
